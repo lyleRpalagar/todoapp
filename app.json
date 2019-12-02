@@ -1,0 +1,32 @@
+{
+  "name": "TodoApp",
+  "displayName": "TodoApp",
+  "expo": {
+    "name": "Todo",
+    "scheme": "todo",
+    "description": "A task yet to be done.",
+    "slug": "todo",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "orientation": "portrait",
+    "primaryColor": "#ebecf7",
+    "androidStatusBarColor": "#000",
+    "androidStatusBar": {
+      "backgroundColor": "#000",
+      "barStyle": "dark-content"
+    },
+    "version": "1.0.0",
+    "ios": {
+      "supportTablet": true,
+      "bundleIdentifier": "com.ehostservicesllc.todo"
+    },
+    "assetBundlePatterns": [
+      "app/asset/image/**",
+      "app/asset/fonts/**",
+      "node_modules/@expo/vector-icons/fonts/*.ttf"
+    ]
+  }
+}
