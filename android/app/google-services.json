@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:949511605329:android:1e484c339cbee299af3c70",
+        "mobilesdk_app_id": "1:949511605329:android:101fb1a823bb1450af3c70",
         "android_client_info": {
-          "package_name": "com.todoapp"
+          "package_name": "com.ehostservicesllc.todo"
         }
       },
       "oauth_client": [
