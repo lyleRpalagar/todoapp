@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949511605329",
+    "firebase_url": "https://to-do-project-fbe2a.firebaseio.com",
+    "project_id": "to-do-project-fbe2a",
+    "storage_bucket": "to-do-project-fbe2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949511605329:android:1e484c339cbee299af3c70",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949511605329-b5j8k07v6r8dec3sconou8ipfbbino8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNN3G0ko-hop9bB1U2i8QaGJUw4SMwKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949511605329-b5j8k07v6r8dec3sconou8ipfbbino8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949511605329-jrae3c9nteok9qnklcskeoe68b4rr5ec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ehostservicesllc.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
