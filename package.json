@@ -22,7 +22,7 @@
     "react-native-paper": "^3.2.1",
     "react-native-vector-icons": "^6.6.0",
     "mem": ">=4.0.0",
-    "ws": ">=3.3.1"
+    "ws": ">=7.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
